@@ -1,4 +1,5 @@
 import pyglet
+import numpy as np
 
 class Window(pyglet.window.Window):
 	
